@@ -1,0 +1,8 @@
+# -> id
+. -> class
+Ctrl + Shift + I -> inspeccionar página web
+
+Orden de los selectores: id -> name -> class -> el resto (buscamos en el inspeccionar el id, si no hay usamos la clase,
+si no la hay, usamos lo que haya).
+
+behave feature/feature_name.feature
